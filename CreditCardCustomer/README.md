@@ -1,8 +1,10 @@
 # AllLife Bank Credit Card Customer Segmentation
 
+See complete model selection and analysis [here](https://github.com/giomvp/AcademicProjects/blob/7f28836048b0f37089b4cca1813341d48a6d3788/CreditCardCustomer/CreditCardCustomer.ipynb).
+
 ## 1. Problem Statement
 
-To identify different segments in the existing customer, based on their spending patterns as well as past interaction with the bank.
+To identify different segments in the existing customer, based on their credit card limit as well as past interaction with the bank.
 
 ## 2. Data Description
 
@@ -27,4 +29,3 @@ As a general note the choice of algorithm here will depend on the context and us
 
 ![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/7f28836048b0f37089b4cca1813341d48a6d3788/CreditCardCustomer/imgs/summary_plt.jpg)
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/7f28836048b0f37089b4cca1813341d48a6d3788/CreditCardCustomer/CreditCardCustomer.ipynb).

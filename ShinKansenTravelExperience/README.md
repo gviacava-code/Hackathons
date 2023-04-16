@@ -1,5 +1,7 @@
 # Shinkansen Travel Experience
 
+See complete model selection and analysis [here](https://github.com/giomvp/AcademicProjects/blob/767573a322a7e6cb785101cd4c0d3adba1f25e9e/ShinKansenTravelExperience/ShinkansenTravelExperience.ipynb).
+
 ## 1. Problem Statement
 
 The goal of the problem is to predict whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train. This exercise also aims to determine the relative importance of each parameter with regards to their contribution to the passengers’ overall travel experience.
@@ -37,4 +39,4 @@ This *Accuracy* factor shows the model is able to predict 95% of observations. A
 
 ![Summary Charts](https://github.com/giomvp/AcademicProjects/blob/40973c188cf5a2dbd5574e5ab54c995b0fd0fce3/ShinKansenTravelExperience/imgs/summary_plt.jpg)
 
-Complete model selection analysis [here](https://github.com/giomvp/AcademicProjects/blob/767573a322a7e6cb785101cd4c0d3adba1f25e9e/ShinKansenTravelExperience/ShinkansenTravelExperience.ipynb).
+
